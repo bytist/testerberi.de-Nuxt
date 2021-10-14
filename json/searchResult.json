@@ -1,0 +1,75 @@
+{
+    "products": [
+        {
+            "name": "Samsung Galaxy A51 Prism Crush Black",
+            "thumbnail": "galaxy9",
+            "val1": 96,
+            "val2": 100,
+            "test": 1,
+            "val3": "ab",
+            "price": 1015
+        },
+        {
+            "name": "Samsung Galaxy A51 Prism Crush Black",
+            "thumbnail": "galaxy9",
+            "val1": 96,
+            "val2": 100,
+            "test": 1,
+            "val3": "ab",
+            "price": 1015
+        },
+        {
+            "name": "Samsung Galaxy A51 Prism Crush Black",
+            "thumbnail": "galaxy9",
+            "val1": 96,
+            "val2": 100,
+            "test": 1,
+            "val3": "ab",
+            "price": 1015
+        },
+        {
+            "name": "Samsung Galaxy A51 Prism Crush Black",
+            "thumbnail": "galaxy9",
+            "val1": 96,
+            "val2": 100,
+            "test": 1,
+            "val3": "ab",
+            "price": 1015
+        },
+        {
+            "name": "Samsung Galaxy A51 Prism Crush Black",
+            "thumbnail": "galaxy9",
+            "val1": 96,
+            "val2": 100,
+            "test": 1,
+            "val3": "ab",
+            "price": 1015
+        },
+        {
+            "name": "Samsung Galaxy A51 Prism Crush Black",
+            "thumbnail": "galaxy9",
+            "val1": 96,
+            "val2": 100,
+            "test": 1,
+            "val3": "ab",
+            "price": 1015
+        }
+    ],
+    "categories": [
+        "Samsung Phones",
+        "Samsung Notebook power supplies",
+        "Samsung TV",
+        "Samsung Mobile phone bags"
+    ],
+    "manufacturer": [
+        "Samsung"
+    ],
+    "popular": [
+        "Toner usable for: Samsung",
+        "Tablet PC Series: Samsung Galaxy Tab",
+        "Lens for Samsung",
+        "Samsung Android Smartphones",
+        "Samsung Smart TV",
+        "Samsung TV DVB-C Tuner"
+    ]
+}

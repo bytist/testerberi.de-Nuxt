@@ -1,0 +1,587 @@
+[
+    {
+        "name": "Computer & Hardware",
+        "icon": "pc",
+        "data": [
+            {
+                "name": "Computer Multimedia",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Mobile Computer",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Drucker",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Network & Communication",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Telekommunication",
+        "icon": "mobile",
+        "data": [
+            {
+                "name": "Telekommunication",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Telekommunication",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Telekommunication",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Telekommunication",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TV,Audio,Video,DVD",
+        "icon": "lcd",
+        "data": [
+            {
+                "name": "TV,Audio,Video,DVD",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "TV,Audio,Video,DVD",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "TV,Audio,Video,DVD",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "TV,Audio,Video,DVD",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Foto Video",
+        "icon": "camera",
+        "data": [
+            {
+                "name": "Foto Video",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Foto Video",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Foto Video",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Foto Video",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sport",
+        "icon": "bicycle",
+        "data": [
+            {
+                "name": "Sport",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Sport",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Sport",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Sport",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gesundheit & Kosmetik",
+        "icon": "bottles",
+        "data": [
+            {
+                "name": "Gesundheit & Kosmetik",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Gesundheit & Kosmetik",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Gesundheit & Kosmetik",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Gesundheit & Kosmetik",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Baby & Kind",
+        "icon": "stroller",
+        "data": [
+            {
+                "name": "Baby & Kind",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Baby & Kind",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Baby & Kind",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Baby & Kind",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mode",
+        "icon": "watch",
+        "data": [
+            {
+                "name": "Mode",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Mode",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Mode",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Mode",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Heimwerken & Garten",
+        "icon": "tools",
+        "data": [
+            {
+                "name": "Heimwerken & Garten",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Heimwerken & Garten",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Heimwerken & Garten",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Heimwerken & Garten",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Essen & Trinken",
+        "icon": "calender",
+        "data": [
+            {
+                "name": "Essen & Trinken",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Essen & Trinken",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Essen & Trinken",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Essen & Trinken",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wohnen & Haushalt",
+        "icon": "washer",
+        "data": [
+            {
+                "name": "Wohnen & Haushalt",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Wohnen & Haushalt",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Wohnen & Haushalt",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Wohnen & Haushalt",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Spiele & Spielwaren",
+        "icon": "toys",
+        "data": [
+            {
+                "name": "Spiele & Spielwaren",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Spiele & Spielwaren",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Spiele & Spielwaren",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Spiele & Spielwaren",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Auto & Motorrad",
+        "icon": "tire",
+        "data": [
+            {
+                "name": "Auto & Motorrad",
+                "data": [
+                    "Monitor",
+                    "Eingabereta",
+                    "Computer Mouse",
+                    "Tastauren",
+                    "Festplatten",
+                    "Graphickaten",
+                    "Mainboard",
+                    "Architecture",
+                    "Processor"
+                ]
+            },
+            {
+                "name": "Auto & Motorrad",
+                "data": [
+                    "Notebook",
+                    "Tablet PC",
+                    "Netbooks",
+                    "Completesystem PC",
+                    "Notebook Tasten",
+                    "Notebook Ruckaceh"
+                ]
+            },
+            {
+                "name": "Auto & Motorrad",
+                "data": [
+                    "Multifunc Druker",
+                    "Lase Druker",
+                    "Druker part"
+                ]
+            },
+            {
+                "name": "Auto & Motorrad",
+                "data": [
+                    "Router"
+                ]
+            }
+        ]
+    }
+]

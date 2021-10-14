@@ -1,0 +1,30 @@
+{
+    "category": [
+        {
+            "thumbnail": "tire.svg",
+            "name": "Auto & Motorrad"
+        },
+        {
+            "thumbnail": "lcd.svg",
+            "name": "TV,  Audio, Video, DVD"
+        }
+    ],
+    "product": [
+        {
+            "thumbnail": "apple-3.jpg",
+            "name": "Apple iPhone 11 128GB White"
+        },
+        {
+            "thumbnail": "lgoled.png",
+            "name": "LG OLED65CX9LA"
+        },
+        {
+            "thumbnail": "apple-3.jpg",
+            "name": "Apple iPhone 11 128GB White"
+        },
+        {
+            "thumbnail": "lgoled.png",
+            "name": "LG OLED65CX9LA"
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "ourWinner": 28,
+    "priceFrom": 0,
+    "priceTo": 5000,
+    "manufacturer": [
+        {
+            "name": "Samsung",
+            "products": 315
+        },
+        {
+            "name": "Philips",
+            "products": 184
+        },
+        {
+            "name": "LG",
+            "products": 178
+        },
+        {
+            "name": "Sony",
+            "products": 171
+        },
+        {
+            "name": "Panasonic",
+            "products": 141
+        },
+        {
+            "name": "Grundig",
+            "products": 111
+        },
+        {
+            "name": "3M",
+            "products": 1
+        },
+        {
+            "name": "Alphatronics",
+            "products": 13
+        },
+        {
+            "name": "Alutruss",
+            "products": 1
+        },
+        {
+            "name": "Avtex",
+            "products": 1
+        },
+        {
+            "name": "Axdia",
+            "products": 1
+        },
+        {
+            "name": "Samsung",
+            "products": 315
+        },
+        {
+            "name": "LG",
+            "products": 178
+        },
+        {
+            "name": "Sony",
+            "products": 171
+        },
+        {
+            "name": "Panasonic",
+            "products": 141
+        },
+        {
+            "name": "Grundig",
+            "products": 111
+        },
+        {
+            "name": "3M",
+            "products": 1
+        }
+    ],
+    "screenSize": [
+        {
+            "size": 65,
+            "products": 235
+        },
+        {
+            "size": 55,
+            "products": 277
+        },
+        {
+            "size": 43,
+            "products": 159
+        },
+        {
+            "size": 40,
+            "products": 79
+        },
+        {
+            "size": 85,
+            "products": 9
+        },
+        {
+            "size": 80,
+            "products": 1
+        },
+        {
+            "size": 75,
+            "products": 2
+        },
+        {
+            "size": 70,
+            "products": 1
+        },
+        {
+            "size": 60,
+            "products": 5
+        },
+        {
+            "size": 58,
+            "products": 14
+        },
+        {
+            "size": 50,
+            "products": 75
+        },
+        {
+            "size": 43,
+            "products": 159
+        },
+        {
+            "size": 40,
+            "products": 79
+        },
+        {
+            "size": 85,
+            "products": 9
+        },
+        {
+            "size": 80,
+            "products": 1
+        },
+        {
+            "size": 75,
+            "products": 2
+        },
+        {
+            "size": 70,
+            "products": 1
+        }
+    ],
+    "type": [
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "4K Fernseher",
+            "products": 1019
+        },
+        {
+            "name": "8K Fernseher",
+            "products": 20
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        },
+        {
+            "name": "LCD Fernseher",
+            "products": 66
+        },
+        {
+            "name": "LED Fernseher",
+            "products": 430
+        },
+        {
+            "name": "OLED Fernseher",
+            "products": 55
+        },
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        }
+    ],
+    "resolution": [
+        {
+            "width": 1024,
+            "height": 600,
+            "products": 14
+        },
+        {
+            "width": 1366,
+            "height": 768,
+            "class": "HD",
+            "products": 255
+        },
+        {
+            "width": 1920,
+            "height": 1080,
+            "class": "Full HD",
+            "products": 337
+        },
+        {
+            "width": 3840,
+            "height": 2160,
+            "class": "4K",
+            "products": 934
+        },
+        {
+            "width": 7680,
+            "height": 4320,
+            "class": "8K",
+            "products": 14
+        }
+    ],
+    "energySaving": [
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "4K Fernseher",
+            "products": 1019
+        },
+        {
+            "name": "8K Fernseher",
+            "products": 20
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        },
+        {
+            "name": "LCD Fernseher",
+            "products": 66
+        },
+        {
+            "name": "LED Fernseher",
+            "products": 430
+        },
+        {
+            "name": "OLED Fernseher",
+            "products": 55
+        },
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        }
+    ],
+    "threeDimension": [
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "4K Fernseher",
+            "products": 1019
+        },
+        {
+            "name": "8K Fernseher",
+            "products": 20
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        },
+        {
+            "name": "LCD Fernseher",
+            "products": 66
+        },
+        {
+            "name": "LED Fernseher",
+            "products": 430
+        },
+        {
+            "name": "OLED Fernseher",
+            "products": 55
+        },
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        }
+    ],
+    "connection": [
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "4K Fernseher",
+            "products": 1019
+        },
+        {
+            "name": "8K Fernseher",
+            "products": 20
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        },
+        {
+            "name": "LCD Fernseher",
+            "products": 66
+        },
+        {
+            "name": "LED Fernseher",
+            "products": 430
+        },
+        {
+            "name": "OLED Fernseher",
+            "products": 55
+        },
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        }
+    ],
+    "weight": [
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "4K Fernseher",
+            "products": 1019
+        },
+        {
+            "name": "8K Fernseher",
+            "products": 20
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        },
+        {
+            "name": "LCD Fernseher",
+            "products": 66
+        },
+        {
+            "name": "LED Fernseher",
+            "products": 430
+        },
+        {
+            "name": "OLED Fernseher",
+            "products": 55
+        },
+        {
+            "name": "3D Fernseher",
+            "products": 12
+        },
+        {
+            "name": "Curved Fernseher",
+            "products": 14
+        },
+        {
+            "name": "Full-HD Fernseher",
+            "products": 296
+        },
+        {
+            "name": "HD-Ready Fernseher",
+            "products": 237
+        },
+        {
+            "name": "HDR Fernseher",
+            "products": 930
+        },
+        {
+            "name": "Hotel TV",
+            "products": 51
+        }
+    ]
+}

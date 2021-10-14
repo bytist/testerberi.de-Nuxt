@@ -1,0 +1,256 @@
+.press-article-item ul,
+.press-article-item ol {
+    color: #1d1d1d;
+    list-style-type: none;
+    padding-left: 2.5rem;
+}
+
+.press-article-item li {
+    position: relative;
+}
+
+.press-article-item li::before {
+    position: absolute;
+    content: "\2022";
+    color: #7891a6;
+    font-weight: bold;
+    width: 1em;
+    left: -23px;
+    top: 0;
+}
+
+.cont0,
+.cont5,
+.cont10,
+.cont15,
+.cont20,
+.cont23,
+.cont25,
+.cont30,
+.cont33,
+.cont35,
+.cont40,
+.cont45,
+.cont49,
+.cont50,
+.cont55,
+.cont60,
+.cont65,
+.cont70,
+.cont75,
+.cont80,
+.cont85,
+.cont90,
+.cont95 {
+    padding: .5%;
+}
+
+.cont95 {
+    width: 95%;
+}
+
+.p1p,
+.p1p-l,
+.p1p-tl,
+.p1p-rl,
+.p1p-bl,
+.p1p-trl,
+.p1p-tbl,
+.p1p-rbl {
+    padding-left: 1%!important;
+}
+
+.p1p,
+.p1p-b,
+.p1p-tb,
+.p1p-rb,
+.p1p-bl,
+.p1p-trb,
+.p1p-tbl,
+.p1p-rbl {
+    padding-bottom: 1%!important;
+}
+
+.p1p,
+.p1p-r .p1p-tr,
+.p1p-rb,
+.p1p-rl,
+.p1p-trb,
+.p1p-trl,
+.p1p-rbl {
+    padding-right: 1%!important;
+}
+
+.p1p,
+.p1p-t,
+.p1p-tr,
+.p1p-tb,
+.p1p-tl,
+.p1p-trb,
+.p1p-trl,
+.p1p-tbl {
+    padding-top: 1%!important;
+}
+
+.p10,
+.p10-b,
+.p10-tb,
+.p10-rb,
+.p10-bl,
+.p10-trb,
+.p10-tbl,
+.p10-rbl {
+    padding-bottom: 10px!important;
+}
+
+.p10,
+.p10-t .p10-tr,
+.p10-tb,
+.p10-tl,
+.p10-trb,
+.p10-trl,
+.p10-tbl {
+    padding-top: 10px!important;
+}
+
+.p4p-rl {
+    padding-left: 4%!important;
+}
+
+.p4p-rl {
+    padding-right: 4%!important;
+}
+
+.m10,
+.m10-t,
+.m10-tr,
+.m10-tb,
+.m10-tl {
+    margin-top: 10px!important;
+}
+
+.m10,
+.m10-l,
+.m10-tl,
+.m10-rl,
+.m10-bl {
+    margin-left: 10px!important;
+}
+
+.m10,
+.m10-r,
+.m10-tr,
+.m10-rl,
+.m10-br {
+    margin-right: 10px!important;
+}
+
+.m10,
+.m10-b,
+.m10-tb,
+.m10-rb,
+.m10-bl {
+    margin-bottom: 10px!important;
+}
+
+.grey,
+.p-iserie:hover,
+.glos:nth-child(even) {
+    background-color: #eff2f5!important;
+}
+
+.fw300 {
+    font-weight: 300!important;
+}
+
+.quote {
+    quotes: "“" "”" "‘" "’";
+    margin: 20px 30px;
+}
+
+.i {
+    font-style: italic;
+}
+
+.quote p {
+    margin-right: 30px;
+}
+
+.cont p,
+.footer-copy p {
+    font-size: 15px;
+    line-height: 165%;
+    margin: 5px 0 15px;
+}
+
+.quote:before {
+    content: open-quote;
+}
+
+.quote:after {
+    content: close-quote;
+}
+
+.b {
+    font-weight: normal!important;
+}
+
+.fw300 {
+    font-weight: 300!important;
+}
+
+.cont,
+.cont100,
+.w100p,
+.merklisteRow {
+    width: 100%!important;
+}
+
+.bo,
+.bo-tbl,
+.bo-trl,
+.bo-trb,
+.bo-rbl {
+    border: 1px solid #DFDFDF;
+}
+
+.flo-l,
+.merklisteRow {
+    float: left;
+}
+
+.white {
+    background-color: #FFF;
+}
+
+.cont ul,
+.i-top ul {
+    list-style: circle;
+}
+
+.cont50 {
+    width: 50%;
+}
+
+.cont ul li,
+.cont ol li,
+.i-top ul li {
+    font-size: 15px;
+    line-height: 22px;
+    padding: 3px 0;
+}
+
+.cont45 {
+    width: 45%;
+}
+
+.flo-r {
+    float: right;
+}
+
+.cont p,
+.footer-copy p {
+    font-size: 15px;
+    line-height: 165%;
+    margin: 5px 0 15px;
+}

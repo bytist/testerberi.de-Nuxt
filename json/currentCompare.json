@@ -1,0 +1,147 @@
+{
+    "filterData": {
+        "byDate": [
+            "01/2021",
+            "12/2020",
+            "11/2020",
+            "10/2020",
+            "09/2020",
+            "03/2020",
+            "02/2020",
+            "07/2020",
+            "08/2020",
+            "05/2020",
+            "06/2020",
+            "01/2021",
+            "12/2020",
+            "11/2020",
+            "10/2020",
+            "09/2020",
+            "03/2020",
+            "02/2020",
+            "07/2020",
+            "08/2020",
+            "05/2020",
+            "06/2020",
+            "01/2021",
+            "12/2020",
+            "11/2020",
+            "10/2020",
+            "09/2020",
+            "03/2020"
+        ],
+        "byCategory": [
+            "Computer & Hardware",
+            "Telekommunikation",
+            "Auto & Motorrad",
+            "TV, Audio, Video, DVD",
+            "Foto Video",
+            "Sport",
+            "Gesundheit & Kosmetik",
+            "Baby & Kind",
+            "Mode",
+            "Heimwerken & Garten",
+            "Essen & Trinken",
+            "Wohnen & Haushalt",
+            "Spiele & Spielwaren",
+            "Computer & Hardware",
+            "Telekommunikation",
+            "Auto & Motorrad",
+            "TV, Audio, Video, DVD",
+            "Foto Video",
+            "Sport",
+            "Gesundheit & Kosmetik",
+            "Baby & Kind",
+            "Mode",
+            "Heimwerken & Garten",
+            "Essen & Trinken",
+            "Wohnen & Haushalt",
+            "Spiele & Spielwaren"
+        ]
+    },
+    "testData": [
+        {
+            "title": "Epson WorkForce WF-4830DTWF",
+            "percentage": 93,
+            "price": 220.17,
+            "offer": 1,
+            "thumbnail": "tcl55ec.png",
+            "points": 85,
+            "status": "sehr gut",
+            "compare": "Preis/Leistung: sehr gut",
+            "description": "Der Epson WorkForce WF-4830DTWF ist insgesamt ein sehr guter Allround-Drucker. Doch es gibt natürlich Gründe dafür, warum keine noch höhere Punktzahl in diesem Test erreicht wurde: Der Farbdruck dauert ein wenig länger als es oftmals bei der Konkurrenz der Fall ist, die Druckkosten sind relativ hoch und es fehlt die Randloskopie"
+        },
+        {
+            "title": "MSI WS75 10TL-601",
+            "percentage": 80,
+            "price": 3398.99,
+            "offer": 3,
+            "thumbnail": "apple-1.jpg",
+            "points": 80,
+            "totalPoints": 100,
+            "status": "gut",
+            "compare": "Preis/Leistung: ausreichend",
+            "description": "Das WS75-10TL von MSI ist ein Notebook, welches für Kreative wie geschaffen ist, die ein Arbeitstier mit einer hohen Leistungsaufnahme benötigen. Die Ausstattung dieses mobilen Rechners ist als sehr gut zu bezeichnen. Aber es gibt auch ein Manko, welches es zu benennen gibt: Das Gerät ist nicht gerade das, was man als leise bezeichnen würde"
+        },
+        {
+            "title": "OPPO Reno 4 Pro 5G Galactic Blue",
+            "percentage": 94,
+            "price": 571.98,
+            "offer": 3,
+            "thumbnail": "tcl55ec.png",
+            "points": 90,
+            "status": "sehr gut",
+            "compare": "Preis/Leistung: gut",
+            "description": "Das Reno 4 Pro von Oppo ist kein vollends perfektes Smartphone. Aber für wen kleinere Abstriche bei der Ausstattung kein Problem darstellen, der kann sich bei diesem Handy auf einen guten Allrounder freuen. Als besonders positiv ist hier zu bewerten, dass man den Akku dieses Phones rasend schnell wieder mit Energie versorgen kann."
+        },
+        {
+            "title": "Epson WorkForce WF-4830DTWF",
+            "percentage": 93,
+            "price": 220.17,
+            "offer": 1,
+            "thumbnail": "apple-1.jpg",
+            "points": 85,
+            "status": "sehr gut",
+            "compare": "Preis/Leistung: sehr gut",
+            "description": "Der Epson WorkForce WF-4830DTWF ist insgesamt ein sehr guter Allround-Drucker. Doch es gibt natürlich Gründe dafür, warum keine noch höhere Punktzahl in diesem Test erreicht wurde: Der Farbdruck dauert ein wenig länger als es oftmals bei der Konkurrenz der Fall ist, die Druckkosten sind relativ hoch und es fehlt die Randloskopie"
+        },
+        {
+            "title": "MSI WS75 10TL-601",
+            "percentage": 80,
+            "price": 3398.99,
+            "offer": 3,
+            "thumbnail": "tcl55ec.png",
+            "points": 80,
+            "totalPoints": 100,
+            "status": "gut",
+            "compare": "Preis/Leistung: ausreichend",
+            "description": "Das WS75-10TL von MSI ist ein Notebook, welches für Kreative wie geschaffen ist, die ein Arbeitstier mit einer hohen Leistungsaufnahme benötigen. Die Ausstattung dieses mobilen Rechners ist als sehr gut zu bezeichnen. Aber es gibt auch ein Manko, welches es zu benennen gibt: Das Gerät ist nicht gerade das, was man als leise bezeichnen würde"
+        }
+    ],
+    "testInfo": [
+        {
+            "title": "Vier Chromebooks im Test",
+            "date": "01/2021",
+            "thumbnail": "apple-1.jpg",
+            "description": "Getestet wurden: Asus Chromebook Flip C436FA-E10029,Acer Chromebook Spin 13 (CP713-2W-560V),HP Chromebook x360 12b-ca0300ng,Lenovo IdeaPad Duet (ZA6F0026) Über einen langen Zeitraum konnte man preiswerte Chromebooks nur belächeln. Aber nun sind Chromebooks erwachsen geworden und stellen eine ernshafte Alternative für Windows"
+        },
+        {
+            "title": "5 aktuelle Gaming-Notebooks im PCgo Check",
+            "date": "12/2020",
+            "thumbnail": "tcl55ec.png",
+            "description": "Getestet wurden: Asus Chromebook Flip C436FA-E10029,Acer Chromebook Spin 13 (CP713-2W-560V),HP Chromebook x360 12b-ca0300ng,Lenovo IdeaPad Duet (ZA6F0026) Uber einen langen Zeitraum konnte man preiswerte Chromebooks nur belächeln. Aber nun sind Chromebooks erwachsen geworden und stellen eine ernshafte Alternative für Windows"
+        },
+        {
+            "title": "Vier Chromebooks im Test",
+            "date": "01/2021",
+            "thumbnail": "apple-1.jpg",
+            "description": "Getestet wurden: Asus Chromebook Flip C436FA-E10029,Acer Chromebook Spin 13 (CP713-2W-560V),HP Chromebook x360 12b-ca0300ng,Lenovo IdeaPad Duet (ZA6F0026) Über einen langen Zeitraum konnte man preiswerte Chromebooks nur belächeln. Aber nun sind Chromebooks erwachsen geworden und stellen eine ernshafte Alternative für Windows"
+        },
+        {
+            "title": "5 aktuelle Gaming-Notebooks im PCgo Check",
+            "date": "12/2020",
+            "thumbnail": "tcl55ec.png",
+            "description": "Getestet wurden: Asus Chromebook Flip C436FA-E10029,Acer Chromebook Spin 13 (CP713-2W-560V),HP Chromebook x360 12b-ca0300ng,Lenovo IdeaPad Duet (ZA6F0026) Uber einen langen Zeitraum konnte man preiswerte Chromebooks nur belächeln. Aber nun sind Chromebooks erwachsen geworden und stellen eine ernshafte Alternative für Windows"
+        }
+    ]
+}

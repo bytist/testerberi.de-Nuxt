@@ -1,0 +1,40 @@
+{
+  "name": "testberichtnuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/firebase": "^7.5.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "axios": "^0.21.1",
+    "core-js": "^3.9.1",
+    "firebase": "^8.6.3",
+    "nuxt": "^2.15.3",
+    "swiper": "^5.4.5",
+    "v-lazy-image": "^1.4.0",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-content-loader": "^0.2.3",
+    "vue-css-percentage-circle": "^2.0.0",
+    "vue-currency-input": "^1.22.6",
+    "vue-intl-numberformat": "^1.0.0",
+    "vue-scrollactive": "^0.9.3",
+    "vue-slider-component": "^3.2.11",
+    "vue-star-rating": "^1.7.0",
+    "vue-text-highlight": "^2.0.10",
+    "vue-youtube": "^1.4.0",
+    "vuejs-paginate": "^2.1.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.0.1",
+    "@tailwindcss/custom-forms": "^0.2.1",
+    "node-sass": "^4.14.1",
+    "postcss": "^8.2.8",
+    "sass-loader": "^10.1.1"
+  }
+}

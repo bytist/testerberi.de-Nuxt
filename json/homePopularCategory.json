@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fernseher",
+        "test": 1756,
+        "thumbnail": "tv",
+        "link": "fernseher"
+    },
+    {
+        "name": "Monitore",
+        "test": 1263,
+        "thumbnail": "lcd",
+        "link": "monitore"
+    },
+    {
+        "name": "Geschirrspüler",
+        "test": 1029,
+        "thumbnail": "geschirrspüler",
+        "link": "geschirrspueler"
+    },
+    {
+        "name": "Staubsauger",
+        "test": 849,
+        "thumbnail": "staubsauger",
+        "link": "staubsauger"
+    }
+]

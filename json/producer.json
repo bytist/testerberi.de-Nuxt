@@ -1,0 +1,261 @@
+{
+    "categories": [{
+            "name": "Handytaschen",
+            "count": 539
+        },
+        {
+            "name": "Handys",
+            "count": 500
+        },
+        {
+            "name": "Notebook Netzteile",
+            "count": 305
+        },
+        {
+            "name": "Fernseher",
+            "count": 273
+        },
+        {
+            "name": "Monitore",
+            "count": 246
+        },
+        {
+            "name": "Festplatten",
+            "count": 189
+        },
+        {
+            "name": "Tablet PC",
+            "count": 144
+        },
+        {
+            "name": "Toner",
+            "count": 136
+        },
+        {
+            "name": "Handy-Akkus",
+            "count": 122
+        },
+        {
+            "name": "Notebook Akkus",
+            "count": 112
+        },
+        {
+            "name": "Kühl-Gefrierkombination",
+            "count": 80
+        },
+        {
+            "name": "Handys",
+            "count": 500
+        },
+        {
+            "name": "Notebook Netzteile",
+            "count": 305
+        },
+        {
+            "name": "Fernseher",
+            "count": 273
+        },
+        {
+            "name": "Monitore",
+            "count": 246
+        },
+        {
+            "name": "Festplatten",
+            "count": 189
+        },
+        {
+            "name": "Tablet PC",
+            "count": 144
+        },
+        {
+            "name": "Toner",
+            "count": 136
+        },
+        {
+            "name": "Handy-Akkus",
+            "count": 122
+        },
+        {
+            "name": "Notebook Akkus",
+            "count": 112
+        },
+        {
+            "name": "Kühl-Gefrierkombination",
+            "count": 80
+        }
+    ],
+    "products": [{
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        },
+        {
+            "name": "Samsung 870 Evo 1TB",
+            "thumbnail": "https://img.testbericht.de/kopfhoerer/4807585/L1_sennheiser-pxc-550-ii-kopfhoerer-mit-bluetooth-in-schwarz.jpg",
+            "class": "G",
+            "percentage": 85,
+            "tests": 18,
+            "size": 51,
+            "width": 51,
+            "height": 51,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 365.2,
+            "rate": 4.5,
+            "rateCount": 19,
+            "events": 2,
+            "link": "samsung-gq65q80"
+        }
+    ],
+    "pageNumber": 1,
+    "totalPages": 17
+}

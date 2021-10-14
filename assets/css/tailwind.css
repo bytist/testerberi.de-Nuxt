@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+.main-button {
+    @apply rounded-full bg-tb-blue text-white text-lg select-none flex justify-center items-center w-auto transition duration-150 cursor-pointer;
+    height: 50px;
+    padding: 0 54px;
+}
+
+.main-button-sm {
+    @apply rounded-full px-6 text-white text-sm cursor-pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.main-button-yellow {
+    @apply bg-tb-yellow border border-tb-yellow-dark;
+}
+
+.main-button-yellow:hover {
+    @apply bg-tb-yellow-dark;
+}
+
+.main-button-blood {
+    @apply bg-tb-white-blood border border-tb-blood;
+}
+
+.main-button-blood:hover {
+    @apply bg-tb-blood;
+}
+
+.main-button-green {
+    @apply bg-tb-semi-green border border-tb-true-green;
+}
+
+.main-button-green:hover {
+    @apply bg-tb-true-green;
+}
+
+@media (min-width: 1280px) {
+    .main-button-sm {
+        @apply px-8;
+    }
+}
+
+.main-button:hover {
+    @apply bg-tb-blue-dark;
+}
+
+@tailwind utilities;
+@responsive {
+    .w-1024 {
+        width: 1024px;
+    }
+    .w-1280 {
+        width: 1280px;
+    }
+    @variants focus, hover {
+        .tb-shadow-lg {
+            box-shadow: 0 3px 15px -3px rgba(0, 0, 0, 0.1), 0 0 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        .top-center {
+            top: 50%;
+        }
+        .left-center {
+            left: 50%;
+        }
+        .text-22 {
+            font-size: 22px;
+        }
+        .w-1\/7 {
+            width: 14.28571%;
+        }
+        .border-b-3 {
+            border-bottom-width: 3px;
+        }
+        .tb-shadow-1 {
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+        }
+        .tb-shadow-filter {
+            filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.07));
+        }
+        .tb-shadow-2 {
+            box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.1);
+        }
+        .tb-shadow-3 {
+            box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.2);
+        }
+        .tb-shadow-4 {
+            box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+        }
+        .tb-shadow-5 {
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        }
+    }
+}

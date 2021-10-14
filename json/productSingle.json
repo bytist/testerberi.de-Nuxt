@@ -1,0 +1,251 @@
+{
+	"name": "Apple iPhone SE (2020) 256GB White",
+	"priceRange": [2620.9, 2942.79],
+	"class": "A+++",
+	"percentage": 92,
+	"test": 5,
+	"offer": 5,
+	"totalOffers": 9,
+	"rate": 5,
+	"popularOffers": [
+		{
+			"price": 2620.9,
+			"shipping": 29.95,
+			"badge": {
+				"color": "green",
+				"text": "Am billigsten"
+			},
+			"logo": "otto"
+		},
+		{
+			"price": 2620.9,
+			"shipping": 0,
+			"logo": "amazonde"
+		},
+		{
+			"price": 2620.9,
+			"shipping": 29.95,
+			"logo": "idealo"
+		}
+	],
+	"gallery": ["iphone-red", "iphone-white", "iphone-dark", "iphone-gold"],
+	"video": "cVEemOmHw9Y",
+	"advanced": [
+		{
+			"name": "256GB White",
+			"price": 579,
+			"thumbnail": "apple1"
+		},
+		{
+			"name": "128GB Black",
+			"price": 489,
+			"thumbnail": "apple2"
+		},
+		{
+			"name": "256GB Black",
+			"price": 579,
+			"thumbnail": "apple3"
+		},
+		{
+			"name": "128GB Red",
+			"price": 579,
+			"thumbnail": "apple1"
+		},
+		{
+			"name": "128GB White",
+			"price": 579,
+			"thumbnail": "apple2"
+		},
+		{
+			"name": "256GB Red",
+			"price": 579,
+			"thumbnail": "apple3"
+		},
+		{
+			"name": "128GB Red",
+			"price": 579,
+			"thumbnail": "apple1"
+		},
+		{
+			"name": "128GB White",
+			"price": 579,
+			"thumbnail": "apple2"
+		},
+		{
+			"name": "256GB Red",
+			"price": 579,
+			"thumbnail": "apple3"
+		}
+	],
+	"description": [
+		"Apple hat eine Reihe an Einsteiger-Klasse im Angebot, darunter auch das iPhone SE (2020) 128GB White. Es ist weiß und als Dual-Sim Handy sitzt es in einem Gehäuse aus Glas und Aluminium Rahmen. Wasser, Staub und Dreck können ihm aufgrund IP67 Zertifizierung nur bedingt etwas anhaben.",
+		"Für den Outdoor-Einsatz ist es dank Digitaler Kompass gut gerüstet, aber mit Wasserdichtheit und Staubdichtheit ist es auch im klassischen Alltag gut aufgehoben. Dank Siri an Bord ist die Steuerung per Zuruf möglich. Das 4,7 Zoll / 11,94 cm Display im 16:9 Format löst mit 1.334 x 750 Pixel / HD auf.",
+		"Neben anderen Besonderheiten kann der Bildschirm zum Beispiel Dolby Vision bieten. Die Akkukapazität liegt bei 1.821 mAh. Mit dem Bildstabilisator (optisch (OIS)) gelingen Aufnahmen ohne Verwackler. Die Ausleuchtung von Motiven gelingt dank integriertem True Tone Blitz gut.",
+		"Auch wenn kein WLAN-Netzwerk in der Nähe verfügbar ist, kann dank LTE (Cat. 16) schnell gesurft werden. In Sachen Gewicht bringt das iPhone SE (2020) 128GB White 148 g auf die Waage."
+	],
+	"type": ["Dual-Sim Handy", "LTE Smartphone"],
+	"color": "weiß",
+	"features": ["Staubdichtheit", "Wasserdichtheit"],
+	"dataCommunication": [
+		"EDGE",
+		"GPRS",
+		"GSM",
+		"HSDPA",
+		"LTE",
+		"LTE-Advanced",
+		"UMTS",
+		"VoLTE",
+		"WCDMA"
+	],
+	"outdoorFunction": ["Digitaler Kompass"],
+	"displayResolution": {
+		"width": 1334,
+		"height": 750,
+		"type": "HD"
+	},
+	"designType": "Barren Handy",
+	"accessibility": "Einhandmodus",
+	"housingMaterial": ["Aluminium Rahmen", "Glas"],
+	"protection": "IP67",
+	"serie": "Apple iPhone",
+	"smartphoneClass": "Einsteiger-Klasse",
+	"productSpecifics": "neuster WLan Standard Wi-Fi 6(ax)",
+	"displayFeatures": ["Dolby Vision", "HDR 10"],
+	"displayRatio": {
+		"horizon": 16,
+		"vertical": 9
+	},
+	"customerReviews": [3, 1, 0, 2, 0, 0],
+	"customerPros": [
+		"einfache Bedienung",
+		"ordentliche Schärfe",
+		"Google Assistant & Amazon Alexa (beide integriert)",
+		"gute Blickwinkelstabilität"
+	],
+	"customerCons": ["USB 3.0 fehlt"],
+	"customerFeedback": [
+		{
+			"name": "Area DVD",
+			"percentage": 100,
+			"expression": "überragend",
+			"logo": "area-dvd",
+			"date": "06/12/2020",
+			"link": {
+				"url": "#",
+				"text": "zum Test"
+			},
+			"text": "The LG OLED65CX9LA television impresses not only with a great picture, but also with a sensible combination of equipment, neat workmanship and a chic look. Visually excellent Ultra HD BDs and UHD streaming content are ensured by the newly added Filmmaker Mode. The sound can also be seen or heard, even if you can't expect miracles with the bass."
+		},
+		{
+			"name": "Satvision",
+			"percentage": 93,
+			"expression": "sehr gut",
+			"logo": "satvision",
+			"date": "06/12/2020",
+			"text": "Der LG OLED65CX9LA bietet dem Zuschauer eine außergewöhnlich gute Bildqualität. Das wurde auch bei unseren ausgiebigen Messungen des Bildes bestätigt. Hier schnitt der Fernseher sensationell gut ab. Das gilt auch für alle anderen Sichtungen die wir über verschiedene Quellen vornahmen, sei es Live TV, YouTube, UHD-Blu-rays oder Video On Demand.",
+			"pros": [
+				"Schwarzwert",
+				"Blickwinkel",
+				"HDR10",
+				"HLG & Dolby Vision",
+				"Dolby Atmos",
+				"Magic Remote",
+				"Google Assistant (integriert)",
+				"Amazon Alexa (integriert)",
+				"Apple AirPlay 2 & HomeKit",
+				"HDMI 2.1 (ALLM, eARC, VRR)",
+				"Bluetooth",
+				"Galerie-Modus",
+				"Nvidia G-Sync & AMD FreeSync (per Update)",
+				"Filmmaker-Modus",
+				"Unicable 2",
+				"Soundkalibrierung",
+				"HFR (4K@120 Hz)"
+			],
+			"cons": [
+				"Funktionsumfang der Remote-App(s)",
+				"auf Standfuß nicht drehbar",
+				"Display spiegelt",
+				"kein USB 3.0",
+				"kein Bild-in-Bild für zwei TV-Sender",
+				"kein Bild-in-Bild"
+			],
+			"marks": [
+				{
+					"title": "Bildqualität",
+					"score": 5,
+					"max": 5
+				},
+				{
+					"title": "Bedienung",
+					"score": 4.5,
+					"max": 5
+				},
+				{
+					"title": "Fernsehen & mehr",
+					"score": 4,
+					"max": 5
+				}
+			]
+		},
+		{
+			"name": "Video",
+			"percentage": 96,
+			"expression": "überragend",
+			"logo": "video",
+			"date": "06/12/2020",
+			"text": "Wenn man sich den LG OLED65CX9LA näher anschaut, stellt man unweigerlich fest, dass der Hersteller gut darin ist eine ausgezeichnete Modellpflege zu betreiben. ES wurden bei der Weiterentwicklung an wichtige Details und Verbesserungen gedacht. Hier stimmt wirklich alles, Hut ab!",
+			"pros": [
+				"exzellentes Bild in SDR und HDR",
+				"schärfere Bewegungen",
+				"modernes Bedienkonzept"
+			],
+			"marks": [
+				{
+					"title": "Bildqualität",
+					"score": 488,
+					"max": 500
+				},
+				{
+					"title": "Klangqualität",
+					"score": 45,
+					"max": 60
+				},
+				{
+					"title": "Ausstattung",
+					"score": 222,
+					"max": 260
+				},
+				{
+					"title": "Bedienung",
+					"score": 99,
+					"max": 105
+				},
+				{
+					"title": "Verarbeitung",
+					"score": 66,
+					"max": 80
+				}
+			]
+		}
+	],
+	"relatedProducts": [2, 6, 9, 15],
+	"moreSearch": [
+		"65 Zoll Fernseher",
+		"Fernseher 2.000 bis 3.000 Euro",
+		"4K-Fernseher",
+		"HDR-Fernseher",
+		"65 Zoll Smart TV",
+		"55 Zoll Smart TV Fernsehe",
+		"r32 Zoll Fernseher bis 500 Euro",
+		"55 Zoll WLAN TV",
+		"günstige Fernseher",
+		"55 Zoll Fernseher günstig",
+		"65 Zoll Fernseher mit WLAN",
+		"55 Zoll TV mit Sprachsteuerung",
+		"günstige 65 Zoll Fernseher",
+		"55 Zoll Fernseher bis 1.000 Euro",
+		"65 Zoll Fernseher stromsparend",
+		"LED TV mit DVD Player"
+	]
+}

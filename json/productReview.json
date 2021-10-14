@@ -1,0 +1,85 @@
+{
+    "averageRating": 4.6,
+    "countPerRating": [68, 9, 2, 2, 4],
+    "opinion": {
+        "total": 85,
+        "from": [
+            {
+                "company": "Amazon",
+                "count": 76
+            },
+            {
+                "company": "Otto",
+                "count": 9
+            }
+        ],
+        "date": "12.07.2020"
+    },
+    "reviews": {
+        "pageNumber": 2,
+        "totalPages": 11,
+        "result": [
+            {
+                "rating": 5,
+                "title": "Small and handy tip top",
+                "client": "Frank M",
+                "date": "07/02/2020",
+                "feedback": "Klein und handlich Tip Top....wie beim iphone gewohnt alles gut"
+            },
+            {
+                "rating": 5,
+                "title": "Super Preis-Leistungs-Verhältnis",
+                "client": "Frank M",
+                "date": "07/02/2020",
+                "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+                "rating": 5,
+                "title": "Small and handy tip top",
+                "client": "Frank M",
+                "date": "07/02/2020",
+                "feedback": "Klein und handlich Tip Top....wie beim iphone gewohnt alles gut"
+            },
+            {
+                "rating": 5,
+                "title": "Super Preis-Leistungs-Verhältnis",
+                "client": "Frank M",
+                "date": "07/02/2020",
+                "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            },
+            {
+                "rating": 5,
+                "title": "Small and handy tip top",
+                "client": "Frank M",
+                "date": "07/02/2020",
+                "feedback": "Klein und handlich Tip Top....wie beim iphone gewohnt alles gut"
+            }
+        ]
+    },
+    "questions": {
+        "total": 1,
+        "result": [
+            {
+                "title": "Ist der Akku fest verbaut?",
+                "author": "Erkan",
+                "like": 12,
+                "dislike": 3,
+                "content": "Hallo Kirstin, der Akku des iPhone SE ist zwar fest verbaut, aber wenn er mal schwächeln sollte kannst Du ihn vom Fachmann austauschen lassen. Wenn Du es aber nicht direkt bei Apple machst musst Du glaube ich wegen der Garantie aufpassen. Ich hab knapp 50 Euro bezahlt, allerdings war es ein anderes iPhone Modell."
+            }
+        ]
+    },
+    "categoryQuestions": [
+        {
+            "title": "Echt schick! Kann jemand was darüber aus der Praxis berichten?",
+            "product": "Huawei Mate Xs"
+        },
+        {
+            "title": "Eignet sich dieses Sony Smartphone gut zum Filme gucken?",
+            "product": "Sony Xperia 1 II Schwarz"
+        },
+        {
+            "title": "Funktioniert der Fingerabdrucksensor gut?",
+            "product": "Sony Xperia L4 Blau"
+        }
+    ]
+}

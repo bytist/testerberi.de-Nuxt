@@ -1,0 +1,90 @@
+[
+    {
+        "name": "LG OLED65CX9LA",
+        "logo": "idealo",
+        "thumbnail": "lgoled",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    },
+    {
+        "name": "LG OLED65CX9LA OLED TV (164 cm / 65 inch, 4K Ultra HD, Smart TV)",
+        "logo": "otto",
+        "thumbnail": "product-apple",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    },
+    {
+        "name": "LG OLED65CX9LA",
+        "logo": "idealo",
+        "thumbnail": "lgoled",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    },
+    {
+        "name": "LG OLED65CX9LA OLED TV (164 cm / 65 inch, 4K Ultra HD, Smart TV)",
+        "logo": "otto",
+        "thumbnail": "product-apple",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    },
+    {
+        "name": "LG OLED65CX9LA",
+        "logo": "idealo",
+        "thumbnail": "lgoled",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    },
+    {
+        "name": "LG OLED65CX9LA OLED TV (164 cm / 65 inch, 4K Ultra HD, Smart TV)",
+        "logo": "otto",
+        "thumbnail": "product-apple",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    },
+    {
+        "name": "LG OLED65CX9LA",
+        "logo": "idealo",
+        "thumbnail": "lgoled",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    },
+    {
+        "name": "LG OLED65CX9LA OLED TV (164 cm / 65 inch, 4K Ultra HD, Smart TV)",
+        "logo": "otto",
+        "thumbnail": "product-apple",
+        "delivery": {
+            "min": 2,
+            "max": 3
+        },
+        "price": 2620.9,
+        "shipping": 29.95
+    }
+]

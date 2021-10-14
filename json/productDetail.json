@@ -1,0 +1,216 @@
+{
+    "general": [
+        {
+            "name": "Produkttyp",
+            "contents": ["4K-Fernseher"]
+        },
+        {
+            "name": "Farbe",
+            "contents": ["schwarz"]
+        },
+        {
+            "name": "Betriebssystem",
+            "contents": ["WebOS 5.0"]
+        },
+        {
+            "name": "Länderversion",
+            "contents": ["AT-Modell"]
+        },
+        {
+            "name": "Standfußfarbe",
+            "contents": ["schwarz"]
+        },
+        {
+            "name": "Fernbedienung",
+            "contents": ["Magic Remote"]
+        },
+        {
+            "name": "Lieferumfang",
+            "contents": [
+                "Batterien",
+                "Bedienungsanleitung",
+                "Fernbedienung",
+                "Netzkabel",
+                "Standfuß"
+            ]
+        },
+        {
+            "name": "Fernseher-Besonderheiten",
+            "contents": ["FreeSync", "G-sync", "SimpLink", "Voice Assistant"]
+        }
+    ],
+    "function": [
+        {
+            "name": "Internetfunktionen",
+            "contents": ["DLNA", "HbbTV", "Smart TV", "integrierter Webbrowser"]
+        },
+        {
+            "name": "Digital Tuner",
+            "contents": [
+                "Antenna (DVB-T)",
+                "Antenna (DVB-T2)",
+                "Kabel (DVB-C)",
+                "Satellit HD (DVB-S2 HD)"
+            ]
+        },
+        {
+            "name": "Aufnahmefunktionen",
+            "contents": [
+                "Timer-Funktion",
+                "Twin-Tuner",
+                "USB-Recording (PVR ready)",
+                "Zeitversetztes Fernsehen (Time Shift)"
+            ]
+        },
+        {
+            "name": "EPG-Zeitraum",
+            "contents": ["8 Tage"]
+        },
+        {
+            "name": "Komforteigenschaften",
+            "contents": [
+                "Bildschirmmenü OSD",
+                "EPG",
+                "HDCP-Entschlüsselung",
+                "HDMI-ARC (Audio Return Channel)",
+                "HDMI-CEC",
+                "Sleep-Timer",
+                "Smartphone-Fernbedienung",
+                "Sprachsteuerung",
+                "Standbild",
+                "Standbild USB-Cloning (Kanallisten-Kopierfunktion)",
+                "Untertitelunterstützung",
+                "Videotext",
+                "automatischer Sendersuchlauf",
+                "integrierte Lautsprecher",
+                "integrierter Media-Player",
+                "mehrsprachiges OSD"
+            ]
+        },
+        {
+            "name": "Netzwerk-Besonderheiten",
+            "contents": ["AirPlay 2", "LG ThinQ", "Magic Link", "Sports Alert"]
+        },
+        {
+            "name": "Online TV-Portal",
+            "contents": ["LG Web Content"]
+        },
+        {
+            "name": "Fernseher-Prozessor",
+            "contents": ["LG Alpha 9 Gen3"]
+        },
+        {
+            "name": "TV-Apps",
+            "contents": ["Netflix 4K"]
+        }
+    ],
+    "weight": [
+        {
+            "name": "Gewicht mit Standfuß",
+            "contents": ["32.6 kg"]
+        },
+        {
+            "name": "Gewicht ohne Standfuß",
+            "contents": ["24 kg"]
+        },
+        {
+            "name": "Maße mit Standfuß (BxHxT)",
+            "contents": ["1449 x 862 x 251 mm"]
+        },
+        {
+            "name": "Maße ohne Standfuß (BxHxT)",
+            "contents": ["1449 x 830 x 47 mm"]
+        }
+    ],
+    "screen": [
+        {
+            "name": "Bildschirmdiagonale in Zoll",
+            "contents": ["65 Zoll"]
+        },
+        {
+            "name": "Bildschirm-Auflösung",
+            "contents": ["3.840 x 2.160 Pixel"]
+        },
+        {
+            "name": "Bildwiederholrate in Hz",
+            "contents": ["100 Hz"]
+        },
+        {
+            "name": "Bildschirmformat",
+            "contents": ["16: 9"]
+        },
+        {
+            "name": "Hintergrundbeleuchtung",
+            "contents": ["Local-Dimming LED"]
+        },
+        {
+            "name": "HDR-Formatunterstützung",
+            "contents": ["Dolby Vision", "HDR HLG", "HDR10"]
+        },
+        {
+            "name": "Bild-Besonderheitenieferumfang",
+            "contents": [
+                "4K AI Upscaling",
+                "HDR Dynamic Tone Mapping Pro",
+                "OLED Motion Pro",
+                "Perfect Color",
+                "Perfect Viewing Angle",
+                "Pixel Dimming",
+                "Self-lighting Pixel",
+                "True Color Accuracy",
+                "Ultra Luminance Pro"
+            ]
+        }
+    ],
+    "audioVideo": [
+        {
+            "name": "Lautsprecher-System",
+            "contents": ["2.2"]
+        },
+        {
+            "name": "Lautsprecherleistung",
+            "contents": ["40 Watt"]
+        },
+        {
+            "name": "Sound-Besonderheiten",
+            "contents": ["AI Sound", "Audio Bluetooth", "Clear Voice IV"]
+        },
+        {
+            "name": "Surround-Format",
+            "contents": ["DTS-HD", "Dolby Atmos"]
+        }
+    ],
+    "energy": [
+        {
+            "name": "Energieeffizienzklasse",
+            "contents": ["A"]
+        },
+        {
+            "name": "Energieverbrauch / Betrieb",
+            "contents": ["137 Watt"]
+        },
+        {
+            "name": "Energieverbrauch pro Jahr in kWh",
+            "contents": ["190 kWh"]
+        },
+        {
+            "name": "Nachhaltigkeit",
+            "contents": [
+                "Abschaltautomatik",
+                "Energiesparmodus",
+                "Lichtsensor (Energiespar-Sensor)",
+                "kein Quecksilbergehalt"
+            ]
+        }
+    ],
+    "connect": [
+        {
+            "name": "Anschlüsse",
+            "contents": ["Antennenanschluß", "Kopfhörer-Ausgang"]
+        },
+        {
+            "name": "Netzwerk Anschlüsse",
+            "contents": ["Ethernet 1x"]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Apple MacBook Air 13\" 2020 (MWTJ2D/A)",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "mac"
+    },
+    {
+        "name": "Apple iPhone SE (2020) 256GB White",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "iphone"
+    },
+    {
+        "name": "Samsung Galaxy A51 Prism Crush Black",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "samsung"
+    },
+    {
+        "name": "Apple MacBook Pro 13\" 2020 (MXK62D/A)",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "apple"
+    },
+    {
+        "name": "Nikon D780 Body",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "nikon"
+    },
+    {
+        "name": "Bissell 2582N CrossWave Cordless",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "crosswave"
+    },
+    {
+        "name": "Apple MacBook Air 13\" 2020 (MWTJ2D/A)",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "mac"
+    },
+    {
+        "name": "Apple iPhone SE (2020) 256GB White",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "iphone"
+    },
+    {
+        "name": "Bissell 2582N CrossWave Cordless",
+        "val1": 96,
+        "test": 1,
+        "price": 1015,
+        "review": 5,
+        "reviewCount": 105,
+        "thumbnail": "crosswave"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "title": "AMD Ryzen 9 5900X",
+        "percentage": 100,
+        "thumbnail": "tcl55ep.png",
+        "points": 100,
+        "status": "sehr gut",
+        "testWinner": true,
+        "description": "Das Duell der aktuelle Desktop-Prozessoren hat AMD am Ende deutlich für sich entschieden. Dabei konnte vor allem das Modell Ryzen 9 5900X begeistern und fährt völlig verdient nicht nur den Testsieg ein, sondern auch die maximale Punktzahl. Es handelt sich hier um eine der leistungsstärksten CPUs, die es derzeit für Desktop-PCs zu kaufen gibt."
+    },
+    {
+        "title": "MSI WS75 10TL-601",
+        "percentage": 80,
+        "thumbnail": "apple-3.jpg",
+        "points": 80,
+        "totalPoints": 100,
+        "status": "gut",
+        "description": "Das WS75-10TL von MSI ist ein Notebook, welches für Kreative wie geschaffen ist, die ein Arbeitstier mit einer hohen Leistungsaufnahme benötigen. Die Ausstattung dieses mobilen Rechners ist als sehr gut zu bezeichnen. Aber es gibt auch ein Manko, welches es zu benennen gibt: Das Gerät ist nicht gerade das, was man als leise bezeichnen würde",
+        "detail": [
+            "Preis/Leistung: ausreichend"
+        ]
+    },
+    {
+        "title": "Intel Core i9-10900K Box",
+        "percentage": 94,
+        "thumbnail": "tcl65c8.png",
+        "points": 88,
+        "status": "sehr gut",
+        "price": 476.99,
+        "offer": 2,
+        "description": "Intel muss sich geschlagen geben! Der Intel Core i9-10900K landet \"nur\" auf dem dritten Platz hinter den beiden Top-Modellen von AMD. Am Ende hat man es hier dennoch mit einem sehr guten Prozessor zu tun, welcher zudem mit integrierter UHD-630-Grafik punkten kann. Für die CPU-Krone besitzen die einzelnen Kerne im Vergleich zu wenig Power, was aber ein Meckern auf besonders hohem Niveau ist."
+    },
+    {
+        "title": "AMD Ryzen 9 5900X",
+        "percentage": 100,
+        "thumbnail": "tcl55ep.png",
+        "points": 100,
+        "status": "sehr gut",
+        "description": "Das Duell der aktuelle Desktop-Prozessoren hat AMD am Ende deutlich für sich entschieden. Dabei konnte vor allem das Modell Ryzen 9 5900X begeistern und fährt völlig verdient nicht nur den Testsieg ein, sondern auch die maximale Punktzahl. Es handelt sich hier um eine der leistungsstärksten CPUs, die es derzeit für Desktop-PCs zu kaufen gibt."
+    },
+    {
+        "title": "MSI WS75 10TL-601",
+        "percentage": 80,
+        "thumbnail": "apple-3.jpg",
+        "points": 80,
+        "totalPoints": 100,
+        "status": "gut",
+        "description": "Das WS75-10TL von MSI ist ein Notebook, welches für Kreative wie geschaffen ist, die ein Arbeitstier mit einer hohen Leistungsaufnahme benötigen. Die Ausstattung dieses mobilen Rechners ist als sehr gut zu bezeichnen. Aber es gibt auch ein Manko, welches es zu benennen gibt: Das Gerät ist nicht gerade das, was man als leise bezeichnen würde",
+        "detail": [
+            "Preis/Leistung: ausreichend"
+        ]
+    },
+    {
+        "title": "LG OLED65CX9LA",
+        "percentage": 94,
+        "thumbnail": "tcl65c8.png",
+        "points": 1.4,
+        "status": "sehr gut",
+        "testWinner": true,
+        "price": 1885,
+        "offer": 3,
+        "abTest": true,
+        "description": "Das Duell der aktuelle Desktop-Prozessoren hat AMD am Ende deutlich für sich entschieden. Dabei konnte vor allem das Modell Ryzen 9 5900X begeistern und fährt völlig verdient nicht nur den Testsieg ein, sondern auch die maximale Punktzahl. Es handelt sich hier um eine der leistungsstärksten CPUs, die es derzeit für Desktop-PCs zu kaufen gibt.",
+        "pros": [
+            "Hervorragende Bildqualität",
+            "griffige Fernbedienung",
+            "Ton in Ordnung"
+        ],
+        "cons": [
+            "Einstell-Menü in einigen Punkten unverständlich",
+            "wenige Apps"
+        ],
+        "detail":[
+            "Wie gut sind Bild- und Tonqualität? Sehr natürliche Farben, Ton gut",
+            "Sind alle wichtigen Anschlüsse vorhanden? Alle vorhanden",
+            "Wie einfach ist die Bedienung? Übersichtlich"
+        ]
+    }
+]

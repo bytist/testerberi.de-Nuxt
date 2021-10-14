@@ -1,0 +1,9 @@
+name = "testberichtnuxt"
+type = 'webpack'
+account_id = '49b15d1c1f5d3418e9adf89b3b053a55'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+site = {bucket = "dist",entry-point = "workers-site"}

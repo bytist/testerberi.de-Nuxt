@@ -1,0 +1,287 @@
+{
+    "reviewsByScore": [
+        7,
+        2,
+        2,
+        1,
+        0
+    ],
+    "reviewsByDetail": [
+        {
+            "title": "Side design",
+            "score": 4
+        },
+        {
+            "title": "Product range",
+            "score": 4
+        },
+        {
+            "title": "Prices",
+            "score": 4
+        },
+        {
+            "title": "Payment methods",
+            "score": 4
+        },
+        {
+            "title": "Delivery",
+            "score": 4
+        },
+        {
+            "title": "Search",
+            "score": 4
+        },
+        {
+            "title": "Product",
+            "score": 4
+        },
+        {
+            "title": "Order",
+            "score": 4
+        },
+        {
+            "title": "Shipping",
+            "score": 4
+        },
+        {
+            "title": "Packaging",
+            "score": 4
+        },
+        {
+            "title": "Customer service",
+            "score": 4
+        }
+    ],
+    "featuredReview": {
+        "mostRecent": {
+            "name": "Sebastian",
+            "date": "09/05/2016",
+            "score": 4,
+            "feedback": "If you do not order via Prime, the goods will be held back for 1-2 days until they are shipped. Unless there is a strike again, then everything comes very punctually."
+        },
+        "latestCritical": {
+            "name": "Regular customer",
+            "date": "16/07/2016",
+            "score": 2,
+            "feedback": "There are always problems with direct debit. Even if the address data changes, you are demoted to the untrusted customer. The Amazon help is of no use at all, the German employees who are curtailed in their competence can do nothing and have no insight. The Indian and Romanian-Bulgarian employees can be forgotten immediately, but only text modules from the GTC, which one already knows. If Amazon is stunned, you're smeared, and you're called the culprit, because Amazon doesn't make mistakes, and you have to have done something yourself, I'm just saying U.S. service desert.<br /><br />If you don't send anything back for many years, but then you send back a lot, because badly/wrongly described, or parts are missing or nothing works (the latter likes to work with the used items), you g et a letter with a threat of dismissal, and the claim that it can be nothing, because everything (!) is checked before delivery. Which is clearly not true, or Amazon's employees are siphoned off customers. You simply don't get an answer or more precise information, so you can only hope that the account will not be turned off. In any case, this is not the way to deal with customers."
+        }
+    },
+    "reviews": [
+        {
+            "name": "Sebastian",
+            "date": "09/05/2016",
+            "additionalInfo": "- Regular custome -  would shop again at this retailer",
+            "score": 4,
+            "title": "Service Desert from the USA",
+            "feedback": "here are always problems with direct debit. Even if the address data changes, you are demoted to the untrusted customer. The Amazon help is of no use at all, the German employees who are curtailed in their competence can do nothing and have no insight. The Indian and Romanian-Bulgarian employees can be forgotten immediately, but only text modules from the GTC, which one already knows. If Amazon is stunned, you're smeared, and you're called the culprit, because Amazon doesn't make mistakes, and you have to have done something yourself, I'm just saying U.S. service desert.<br/><br/>If you don't send anything back for many years, but then you send back a lot, because badly/wrongly described, or parts are missing or nothing works (the latter likes to work with the used items), you get a letter with a threat of dismissal, and the claim that it can be nothing, because everything (!) is checked before delivery. Which is clearly not true, or Amazon's employees are siphoned off customers. You simply don't get an answer or more precise information, so you can only hope that the account will not be turned off. In any case, this is not the way to deal with customers.<br/><br/>Otherwise everything goes smoothly",
+            "reviewsByDetail": [
+                {
+                    "title": "Side design",
+                    "score": 4
+                },
+                {
+                    "title": "Product range",
+                    "score": 4
+                },
+                {
+                    "title": "Prices",
+                    "score": 4
+                },
+                {
+                    "title": "Payment methods",
+                    "score": 4
+                },
+                {
+                    "title": "Delivery",
+                    "score": 4
+                },
+                {
+                    "title": "Search",
+                    "score": 4
+                },
+                {
+                    "title": "Product",
+                    "score": 4
+                },
+                {
+                    "title": "Order",
+                    "score": 4
+                },
+                {
+                    "title": "Shipping",
+                    "score": 4
+                },
+                {
+                    "title": "Packaging",
+                    "score": 4
+                },
+                {
+                    "title": "Customer service",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "name": "Sebastian",
+            "date": "09/05/2016",
+            "additionalInfo": "- Regular custome -  would shop again at this retailer",
+            "score": 4,
+            "title": "Service Desert from the USA",
+            "feedback": "here are always problems with direct debit. Even if the address data changes, you are demoted to the untrusted customer. The Amazon help is of no use at all, the German employees who are curtailed in their competence can do nothing and have no insight. The Indian and Romanian-Bulgarian employees can be forgotten immediately, but only text modules from the GTC, which one already knows. If Amazon is stunned, you're smeared, and you're called the culprit, because Amazon doesn't make mistakes, and you have to have done something yourself, I'm just saying U.S. service desert.<br/><br/>If you don't send anything back for many years, but then you send back a lot, because badly/wrongly described, or parts are missing or nothing works (the latter likes to work with the used items), you get a letter with a threat of dismissal, and the claim that it can be nothing, because everything (!) is checked before delivery. Which is clearly not true, or Amazon's employees are siphoned off customers. You simply don't get an answer or more precise information, so you can only hope that the account will not be turned off. In any case, this is not the way to deal with customers.<br/><br/>Otherwise everything goes smoothly",
+            "reviewsByDetail": [
+                {
+                    "title": "Side design",
+                    "score": 4
+                },
+                {
+                    "title": "Product range",
+                    "score": 4
+                },
+                {
+                    "title": "Prices",
+                    "score": 4
+                },
+                {
+                    "title": "Payment methods",
+                    "score": 4
+                },
+                {
+                    "title": "Delivery",
+                    "score": 4
+                },
+                {
+                    "title": "Search",
+                    "score": 4
+                },
+                {
+                    "title": "Product",
+                    "score": 4
+                },
+                {
+                    "title": "Order",
+                    "score": 4
+                },
+                {
+                    "title": "Shipping",
+                    "score": 4
+                },
+                {
+                    "title": "Packaging",
+                    "score": 4
+                },
+                {
+                    "title": "Customer service",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "name": "Sebastian",
+            "date": "09/05/2016",
+            "additionalInfo": "- Regular custome -  would shop again at this retailer",
+            "score": 4,
+            "title": "Service Desert from the USA",
+            "feedback": "here are always problems with direct debit. Even if the address data changes, you are demoted to the untrusted customer. The Amazon help is of no use at all, the German employees who are curtailed in their competence can do nothing and have no insight. The Indian and Romanian-Bulgarian employees can be forgotten immediately, but only text modules from the GTC, which one already knows. If Amazon is stunned, you're smeared, and you're called the culprit, because Amazon doesn't make mistakes, and you have to have done something yourself, I'm just saying U.S. service desert.<br/><br/>If you don't send anything back for many years, but then you send back a lot, because badly/wrongly described, or parts are missing or nothing works (the latter likes to work with the used items), you get a letter with a threat of dismissal, and the claim that it can be nothing, because everything (!) is checked before delivery. Which is clearly not true, or Amazon's employees are siphoned off customers. You simply don't get an answer or more precise information, so you can only hope that the account will not be turned off. In any case, this is not the way to deal with customers.<br/><br/>Otherwise everything goes smoothly",
+            "reviewsByDetail": [
+                {
+                    "title": "Side design",
+                    "score": 4
+                },
+                {
+                    "title": "Product range",
+                    "score": 4
+                },
+                {
+                    "title": "Prices",
+                    "score": 4
+                },
+                {
+                    "title": "Payment methods",
+                    "score": 4
+                },
+                {
+                    "title": "Delivery",
+                    "score": 4
+                },
+                {
+                    "title": "Search",
+                    "score": 4
+                },
+                {
+                    "title": "Product",
+                    "score": 4
+                },
+                {
+                    "title": "Order",
+                    "score": 4
+                },
+                {
+                    "title": "Shipping",
+                    "score": 4
+                },
+                {
+                    "title": "Packaging",
+                    "score": 4
+                },
+                {
+                    "title": "Customer service",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "name": "Sebastian",
+            "date": "09/05/2016",
+            "additionalInfo": "- Regular custome -  would shop again at this retailer",
+            "score": 4,
+            "title": "Service Desert from the USA",
+            "feedback": "here are always problems with direct debit. Even if the address data changes, you are demoted to the untrusted customer. The Amazon help is of no use at all, the German employees who are curtailed in their competence can do nothing and have no insight. The Indian and Romanian-Bulgarian employees can be forgotten immediately, but only text modules from the GTC, which one already knows. If Amazon is stunned, you're smeared, and you're called the culprit, because Amazon doesn't make mistakes, and you have to have done something yourself, I'm just saying U.S. service desert.<br/><br/>If you don't send anything back for many years, but then you send back a lot, because badly/wrongly described, or parts are missing or nothing works (the latter likes to work with the used items), you get a letter with a threat of dismissal, and the claim that it can be nothing, because everything (!) is checked before delivery. Which is clearly not true, or Amazon's employees are siphoned off customers. You simply don't get an answer or more precise information, so you can only hope that the account will not be turned off. In any case, this is not the way to deal with customers.<br/><br/>Otherwise everything goes smoothly",
+            "reviewsByDetail": [
+                {
+                    "title": "Side design",
+                    "score": 4
+                },
+                {
+                    "title": "Product range",
+                    "score": 4
+                },
+                {
+                    "title": "Prices",
+                    "score": 4
+                },
+                {
+                    "title": "Payment methods",
+                    "score": 4
+                },
+                {
+                    "title": "Delivery",
+                    "score": 4
+                },
+                {
+                    "title": "Search",
+                    "score": 4
+                },
+                {
+                    "title": "Product",
+                    "score": 4
+                },
+                {
+                    "title": "Order",
+                    "score": 4
+                },
+                {
+                    "title": "Shipping",
+                    "score": 4
+                },
+                {
+                    "title": "Packaging",
+                    "score": 4
+                },
+                {
+                    "title": "Customer service",
+                    "score": 4
+                }
+            ]
+        }
+    ]
+}
